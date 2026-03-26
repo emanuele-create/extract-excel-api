@@ -2,4 +2,4 @@ services:
   api:
     build: .
     ports:
-      - "6000:6000"
+      - "6600:6000"
